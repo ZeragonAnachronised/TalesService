@@ -1,0 +1,65 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/app"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/app/Console"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/app/Exceptions"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/app/Http"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/app/Http/Controllers"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/app/Http/Middleware"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/app/Models"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/app/Providers"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/bootstrap"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/config"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/database"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/database/factories"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/database/migrations"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/database/seeders"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/public"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/resources"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/routes"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/storage"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/backend2/tests"
+		}
+	],
+	"settings": {}
+}
