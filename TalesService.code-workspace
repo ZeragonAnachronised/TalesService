@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/Hackaton/frontend/node_modules"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/frontend/public"
+		},
+		{
+			"path": "../../../Desktop/Hackaton/frontend/src"
+		}
+	],
+	"settings": {}
+}
